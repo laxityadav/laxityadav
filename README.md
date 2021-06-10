@@ -1,5 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
+![Cover Photo](https://res.cloudinary.com/dzex6ikkr/image/upload/v1623310577/limits_srqsno.jpg)
+
 ## 🚀 About Me
 
 🎓 I am Laxit Yadav, a Web Developer pursuing my Bachelors in **Computer Science & Engineering**.

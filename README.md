@@ -4,8 +4,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Laxit Yadav, a Web Developer pursuing my Bachelors in **Computer Science & Engineering**.
-
+🎓 I am Laxit Yadav, working in Accenture as an Application Development Associate.
 👨‍💻 I enjoy coding and really enthusiastic about learning new technology. I am also a Competitive Programmer and solved hundreds of questions on various competitive programming websites like **Codechef**, **Codeforces**, **Leetcode** and **Hackerrank**.
 
 

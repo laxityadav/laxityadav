@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Laxit Yadav, working in Accenture as an Application Development Associate.
+🎓 I am Laxit Yadav, working in Accenture as an Application Development Analyst.
 
 👨‍💻 I enjoy coding and really enthusiastic about learning new technology. I am also a Competitive Programmer and solved hundreds of questions on various competitive programming websites like **Codechef**, **Codeforces**, **Leetcode** and **Hackerrank**.
 
